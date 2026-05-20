@@ -136,3 +136,57 @@ Visual synchronization
 Operational Repository
 
 Daily coordination
+
+📖 REPOSITORY STRUCTURE
+
+GGTCAI.GLOBAL_DAILY_OPERATIONS_AND_CONTINUITY_SYSTEM_V012/
+│
+├── README.md
+├── LICENSE.md
+├── INDEX.md
+├── GLOSSARY.md
+├── SOURCES.md
+├── CHANGELOG.md
+├── DATA_USAGE.md
+│
+├── /core
+│   ├── governance/
+│   ├── doctrine/
+│   ├── continuity/
+│   └── synchronization/
+│
+├── /operations
+│   ├── backups/
+│   ├── maintenance/
+│   ├── platform-management/
+│   └── social-synchronization/
+│
+├── /education
+│   ├── better-reading/
+│   ├── repository-literacy/
+│   ├── semantic-learning/
+│   └── governance-training/
+│
+├── /seo
+│   ├── metadata/
+│   ├── schema/
+│   ├── indexing/
+│   └── semantic-frameworks/
+│
+├── /logs
+│   ├── operational/
+│   ├── continuity/
+│   ├── synchronization/
+│   └── maintenance/
+│
+├── /archive
+│   ├── snapshots/
+│   ├── historical/
+│   └── deprecated/
+│
+└── /assets
+    ├── gui/
+    ├── continuity/
+    ├── infrastructure/
+    └── visual-governance/
+
