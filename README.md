@@ -416,3 +416,63 @@ INDEX
 ARCHIVE
     ↓
 MAINTAIN
+
+🌍 ACTIVE ECOSYSTEM DOMAINS
+
+Core Infrastructure
+
+* GGTCAI.GLOBAL
+* GGTC.info
+* Quibhoball.com
+
+⸻
+
+Publishing + Media
+
+* GGTCPUBLISHING.COM
+* GGTCGLOBALMEDIA.COM
+* GGTCSTUDIOS.COM
+
+⸻
+
+Education + Training
+
+* GGTCTRAINING.COM
+* GGTCSTEMTRAINING.COM
+* GGTCQUANTUMKIDS.ORG
+
+⸻
+
+Expansion Systems
+
+* GGTCUNIVERSE.COM
+* GGTCMULTIMMULTIVERSE.COM
+* GGTCGLOBALAI.COM
+
+⸻
+
+🔐 LICENSE
+
+GGTCAI.GLOBAL PUBLIC RELEASE LICENSE V012
+
+ACTIVE · PUBLIC RELEASE · ALL RIGHTS RESERVED
+
+Permitted:
+
+* educational reading
+* continuity research
+* repository literacy
+* semantic infrastructure study
+* archive preservation
+
+Restricted:
+
+* infrastructure cloning
+* deceptive redistribution
+* attribution removal
+* unauthorized branding
+* unauthorized AI dataset extraction
+
+⸻
+
+🧠 FINAL GOVERNANCE DOCTRINE
