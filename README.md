@@ -400,3 +400,19 @@ ACTIVE
 Platform Management
 
 STABLE
+
+VERIFY
+    ↓
+BACKUP
+    ↓
+STRUCTURE
+    ↓
+SYNCHRONIZE
+    ↓
+PUBLISH
+    ↓
+INDEX
+    ↓
+ARCHIVE
+    ↓
+MAINTAIN
